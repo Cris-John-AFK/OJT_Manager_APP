@@ -39,4 +39,3 @@ npm run electron:start
 - **Database**: SQLite (SQL.js) + LocalForage
 - **Packaging**: Capacitor (Android), Electron (EXE)
 
-Created with ❤️ by Antigravity for Cris John.
